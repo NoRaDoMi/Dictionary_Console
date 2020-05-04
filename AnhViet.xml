@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dictionary>
+    <record>
+        <word>(logic học)</word>
+        <meaning>@(logic học)
+            - phép quy nạp bằng liệt kê
+            - complete i. (logic học) phép quy nạp hoàn toàn
+            - descending i. (logic học) phép quy nạp giảm
+            - electrical i. (vật lí) độ dịch (chuyển) điện
+            - finete i. (logic học) phép quy nạp [toán học, hữu hạn]
+            - informal i. (logic học) phép quy nạp xúc tích 
+            - mathematical i. phép quy nạp toán học
+            - successive i. (logic học) phép quy nạp liên tiếp  
+            - transfinite i. (logic học) phép quy nạp siêu hạn 
+        </meaning>
+    </record>
+    <record>
+        <word>1 to 1 relationship</word>
+        <meaning>﻿@1 to 1 relationship
+        - (Tech) quan hệ 1 đối 1
+        </meaning>
+    </record>
+    <record>
+        <word>1 to many relationship</word>
+        <meaning>@1 to many relationship
+     - (Tech) quan hệ 1 đối nhiều
+        </meaning>
+    </record>
+    <record>
+        <word>1-byte character</word>
+        <meaning>@1-byte character
+         - (Tech) ký tự 1 bai
+        </meaning>
+    </record>
+    <record>
+        <word>1-byte character code</word>
+        <meaning>@1-byte character code
+        - (Tech) mã ký tự 1 bai
+        </meaning>
+    </record>
+
+    <record>
+        <word>1-byte character set</word>
+        <meaning>@1-byte character set
+        - (Tech) bộ ký tự 1 bai
+        </meaning>
+    </record>
+    <record>
+        <word>1-byte character string</word>
+        <meaning>@1-byte character string
+        - (Tech) chuỗi ký tự 1 bai
+        </meaning>
+    </record>
+    <record>
+        <word>2D (two dimension)</word>
+        <meaning>@2D (two dimension)
+        - (Tech) hai chiều, nhị thứ nguyên, phẳng
+        </meaning>
+    </record>
+</dictionary>
